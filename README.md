@@ -1,4 +1,4 @@
-# CircularPrimes
+# Circular Primes: A Twitter Thread
 This thread is meant for those who are familiar with primes. The reader does not require an advanced knowledge of number theory, calculus, or linear algebra. 
 
 The links in the tweets below are, as follows and in order:
